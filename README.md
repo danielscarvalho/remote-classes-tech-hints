@@ -13,3 +13,12 @@ Some tech hints for college professors
 * Use your cellphone wi-fi as a backup for your main Internet connection
 * Use interactive quiz and forms to user activity during classes
  
+### LMS: Learning Management Systems
+* Moodle
+* Blackboard
+* GitHub Education
+
+### Remote Classroom
+* Zoom
+* Google Meet
+* MS Teams
